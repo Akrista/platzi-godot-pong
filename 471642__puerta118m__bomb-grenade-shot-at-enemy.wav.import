@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/471642__puerta118m__bomb-grenade-shot-at-enemy.wav-51af8e6e58a6d3b8b03a1b42b40bf7de.sample"
+
+[deps]
+
+source_file="res://471642__puerta118m__bomb-grenade-shot-at-enemy.wav"
+dest_files=[ "res://.import/471642__puerta118m__bomb-grenade-shot-at-enemy.wav-51af8e6e58a6d3b8b03a1b42b40bf7de.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=1
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
